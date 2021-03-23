@@ -1,0 +1,7 @@
+main{
+    display: grid;
+    grid: repeat(2, 1fr) / repeat(4, 1fr);
+    gap: 1rem;
+    width: 90%;
+    margin: 2rem auto;
+}
