@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-memory-card/static/css/main.2fd0a72d.chunk.css",
+    "main.js": "/react-memory-card/static/js/main.177f2b20.chunk.js",
+    "main.js.map": "/react-memory-card/static/js/main.177f2b20.chunk.js.map",
+    "runtime-main.js": "/react-memory-card/static/js/runtime-main.d01eebdc.js",
+    "runtime-main.js.map": "/react-memory-card/static/js/runtime-main.d01eebdc.js.map",
+    "static/js/2.9631bd29.chunk.js": "/react-memory-card/static/js/2.9631bd29.chunk.js",
+    "static/js/2.9631bd29.chunk.js.map": "/react-memory-card/static/js/2.9631bd29.chunk.js.map",
+    "index.html": "/react-memory-card/index.html",
+    "static/css/main.2fd0a72d.chunk.css.map": "/react-memory-card/static/css/main.2fd0a72d.chunk.css.map",
+    "static/js/2.9631bd29.chunk.js.LICENSE.txt": "/react-memory-card/static/js/2.9631bd29.chunk.js.LICENSE.txt",
+    "static/media/bunny.e62e9e40.jpg": "/react-memory-card/static/media/bunny.e62e9e40.jpg",
+    "static/media/dolphin.1b7f2524.jpg": "/react-memory-card/static/media/dolphin.1b7f2524.jpg",
+    "static/media/duckling.3104d3ef.jpg": "/react-memory-card/static/media/duckling.3104d3ef.jpg",
+    "static/media/hedgehog.8f60c11f.jpg": "/react-memory-card/static/media/hedgehog.8f60c11f.jpg",
+    "static/media/kittens.21229a22.jpg": "/react-memory-card/static/media/kittens.21229a22.jpg",
+    "static/media/puppies.6922394d.jpg": "/react-memory-card/static/media/puppies.6922394d.jpg",
+    "static/media/red_panda.e903fb44.jpg": "/react-memory-card/static/media/red_panda.e903fb44.jpg",
+    "static/media/squirrel.f5e9877f.jpg": "/react-memory-card/static/media/squirrel.f5e9877f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01eebdc.js",
+    "static/js/2.9631bd29.chunk.js",
+    "static/css/main.2fd0a72d.chunk.css",
+    "static/js/main.177f2b20.chunk.js"
+  ]
+}
